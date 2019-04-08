@@ -1,0 +1,7 @@
+[package]
+name = "infinera_slack_bot"
+version = "0.1.0"
+authors = ["JJ Home <john@johnston.email>"]
+edition = "2018"
+
+[dependencies]
